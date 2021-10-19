@@ -1,0 +1,40 @@
+body{
+    background-size: cover;
+}
+
+.header{
+color: white;
+font-size: 30px;
+}
+
+#bed_room ,#TV_room ,#desk ,#bottles ,#fruit_basket{
+width: 200px;
+border-radius: 10px;
+font-size: 25px;
+box-shadow:5px 5px 5px black ;
+} 
+
+.header1{
+width: 100%;
+font-size: 25px;
+margin: 0;
+
+}
+
+.img{
+width: 500px;
+height: 400px;
+box-shadow: white 8px 8px 8px;
+border-radius: 10px;
+}
+
+#back{
+background-color: black;
+color: white;
+
+}
+
+canvas{
+box-shadow: 10px 10px 10px white;
+border-radius: 10px;
+}
